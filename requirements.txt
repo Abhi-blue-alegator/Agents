@@ -1,0 +1,7 @@
+langgraph 
+langchain-openai 
+langchain-community
+python-docx
+python-dotenv
+autogen
+pypdf
